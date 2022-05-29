@@ -1,0 +1,33 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "test example with Mocha and Chai",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naushikah/mochaTest.git"
+  },
+  "keywords": [
+    "mocha",
+    "js",
+    "tdd",
+    "chai",
+    "npm"
+  ],
+  "author": "Leslie Aparecida Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naushikah/mochaTest/issues"
+  },
+  "homepage": "https://github.com/naushikah/mochaTest#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
